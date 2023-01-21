@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/real/BTC/app/src/main/res/drawable/fallback_image.xml" value="0.14635416666666667" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-large/l.xml" value="0.184375" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-large/large.xml" value="0.184375" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw320dp/fifth_item.xml" value="0.12291666666666666" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw320dp/normal_list.xml" value="0.12291666666666666" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.36702954898911355" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw600dp/fifth_item.xml" value="0.4" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw600dp/normal_list.xml" value="0.1783980582524272" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw720dp/fifth_item.xml" value="0.1" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout-sw720dp/normal_list.xml" value="0.1" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout/every_fifth_item.xml" value="0.264" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout/fifth_item.xml" value="0.264" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout/item_list.xml" value="0.176" />
+        <entry key="..\:/real/BTC/app/src/main/res/layout/normal_list.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
