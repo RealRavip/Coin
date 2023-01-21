@@ -61,9 +61,7 @@ public class LoadData {
             } catch (JSONException e) {
                 e.printStackTrace();
             }
-//            recyclerView.setAdapter(new MutiCoin_Adapter(coin_list,this));
         }
-//        recyclerView.setAdapter(new MutiCoin_Adapter(coin_list,this));
         controller.setUi(coin_list);
     }
 
